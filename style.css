@@ -12,6 +12,7 @@ span {
 
 .ma {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .baba {
@@ -31,4 +32,10 @@ span {
     border-radius: 5px;
     font-weight: 700;
     color: rgb(104, 252, 90);
+}
+
+.banar {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+
 }
