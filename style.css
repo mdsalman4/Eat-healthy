@@ -39,3 +39,65 @@ span {
     background-repeat: no-repeat;
 
 }
+
+.vai {
+    text-align: center;
+
+}
+
+.last {
+    box-shadow: 10px 10px gray;
+    border: 10px solid gray;
+}
+
+.ho {
+    display: flex;
+    box-shadow: 20px 20px 50px grey;
+    margin-bottom: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+.goo {
+    padding-left: 250px;
+
+
+
+}
+
+#no {
+    color: rgb(82, 76, 76);
+}
+
+.oh {
+    background-color: black;
+}
+
+#ar {
+    color: aliceblue;
+}
+
+.pad {
+    padding-bottom: 100px;
+    padding-top: 30px;
+}
+
+.tui {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.ami {
+    width: 50%;
+    padding-left: 100px;
+}
+
+.kisu {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 15px;
+}
